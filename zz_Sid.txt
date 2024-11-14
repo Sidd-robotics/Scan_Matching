@@ -1,0 +1,14 @@
+https://carla.readthedocs.io/en/latest/build_faq/#importerror-no-module-named-carla
+
+https://carla.readthedocs.io/en/latest/start_quickstart/#b-package-installation
+
+# Activate the environment
+source carla_env/bin/activate
+
+carla_env is in the following directory
+/media/kuttan/Sid_2023/Sid_2024/Udacity/Ubuntu/Carla_installation
+
+go to this directory and activate the env
+
+git clone https://github.com/udacity/nd0013_cd2693_Exercise_Starter_Code.git
+cd nd0013_cd2693_Exercise_Starter_Code/Lesson_7_Project_Scan_Matching_Localization/c3-project
